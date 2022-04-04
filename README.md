@@ -26,3 +26,4 @@ https://github.com/locuslab/SATNet
 Generative Inpainting
 
 https://github.com/JiahuiYu/generative_inpainting
+# bionica-cognitiva
