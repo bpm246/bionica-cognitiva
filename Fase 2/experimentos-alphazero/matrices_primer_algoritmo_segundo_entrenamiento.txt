@@ -1,0 +1,155 @@
+Algunas de las matrices con mayores puntuaciones del segundo entrenamiento del primer algoritmo
+Matriz 1
+
+['107', '61', '59']
+['101', '103', '79']
+['13', '89', '73']
+
+Puntuaciones:
+Puntos totales: 73.39428571428573
+
+Materiales
+Primos: 50
+Impares: 0
+Total: 50
+
+Formales
+Sumas: 8.571428571428571
+Serie pares: 1.333333333333333
+Pareja pares: 6.666666666666667
+Múltiplos de 6: 6.0
+Tríos asimétricos: 0.8228571428571427
+Total: 23.394285714285715
+
+
+Matriz 2
+
+['83', '61', '89']
+['17', '103', '79']
+['67', '73', '13']
+
+Puntuaciones:
+Puntos totales: 66.28571428571429
+
+Materiales
+Primos: 50
+Impares: 0
+Total: 50
+
+Formales
+Sumas: 4.285714285714286
+Serie pares: 0.0
+Pareja pares: 6.666666666666667
+Múltiplos de 6: 5.3333333333333333
+Tríos asimétricos: 0.0
+Total: 16.285714285714285
+
+Matriz 3
+
+['107', '61', '59']
+['101', '103', '79']
+['13', '89', '73']
+
+Puntuaciones:
+Puntos totales: 73.39428571428573
+
+Materiales
+Primos: 50
+Impares: 0
+Total: 50
+
+Formales
+Sumas: 8.571428571428573
+Serie pares: 1.333333333333333
+Pareja pares: 6.666666666666667
+Múltiplos de 6: 6.0
+Tríos asimétricos: 0.8228571428571427
+Total: 23.394285714285715
+
+Matriz 4
+
+['79', '13', '89']
+['97', '103', '29']
+['5', '67', '73']
+
+Puntuaciones:
+Puntos totales: 62.0400000000006
+
+Materiales
+Primos: 50
+Impares: 0
+Total: 50
+
+Formales
+Sumas: 4.285714285714286
+Serie pares: 1.333333333333333
+Pareja pares: 0.0
+Múltiplos de 6: 6.2.666666666666667
+Tríos asimétricos: 3.7542857142857144
+Total: 12.04
+
+Matriz 5
+
+['71', '89', '1']
+['59', '97', '79']
+['61', '107', '67']
+
+Puntuaciones:
+Puntos totales: 65.63428571428572
+
+Materiales
+Primos: 50
+Impares: 0
+Total: 50
+
+Formales
+Sumas: 8.571428571428571
+Serie pares: 2.666666666666666665
+Pareja pares: 0.0
+Múltiplos de 6: 3.333333333333333335
+Tríos asimétricos: 1.062857142857143
+Total: 15.634285714285713
+
+Matriz 6
+
+['89', '79', '67']
+['37', '71', '1']
+['107', '97', '113']
+
+Puntuaciones:
+Puntos totales: 50.2475110674288
+
+Materiales
+Primos: 44.444444444444445
+Impares: 0
+Total: 44.444444444444445
+
+Formales
+Sumas: 80.0
+Serie pares: 1.333333333333333333
+Pareja pares: 0.0
+Múltiplos de 6: 2.666666666666666667
+Tríos asimétricos: 1.38
+Total: 5.38
+
+Matriz 7
+
+['113', '79', '17']
+['107', '73', '43']
+['89', '67', '103']
+
+Puntuaciones:
+Puntos totales: 55.50666666666675
+
+Materiales
+Primos: 50
+Impares: 0
+Total: 50
+
+Formales
+Sumas: 0.0
+Serie pares: 0.0
+Pareja pares: 0.0
+Múltiplos de 6: 2.666666666666666667
+Tríos asimétricos: 2.84
+Total: 5.5066666666666666666
